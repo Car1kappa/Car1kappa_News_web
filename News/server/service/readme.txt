@@ -1,0 +1,1 @@
+recieve sql information and apply changes and research about the information
